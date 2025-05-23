@@ -1,1 +1,3 @@
-kotovich
+local disabled = {
+  {name = "test", url = ""}
+}
